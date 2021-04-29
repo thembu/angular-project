@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "school-guide-app"
+  "defaultProject": "school-guide-app",
+  "cli": {
+    "analytics": false
+  }
 }
