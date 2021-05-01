@@ -1,0 +1,8 @@
+body{
+    display:grid;
+    background: whitesmoke;
+}
+
+p{
+    font-size: 30px;
+}
